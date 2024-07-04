@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+:root {
+  --font: "Arsenal", sans-serif;
+  --background-primary: #ffffff;
+  --background-secondary: #fafafa;
+  --font-primary: #5a5a5a;
+  --font-secondary: #8e8e8e;
+  --border-primary: #dbdbdb;
+  --link-primary: #0095f6;
+}
+
+.app {
+  background-color: gainsboro;
+}
+

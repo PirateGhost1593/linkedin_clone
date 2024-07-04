@@ -1,0 +1,50 @@
+.profile {
+  display: flex;
+  width: 80%;
+  margin-left: 140px;
+}
+
+.footer_profile {
+  padding-top: 40px;
+  width: 80%;
+  text-align: left;
+  margin: auto;
+  justify-content: space-between;
+  padding-bottom: 15px;
+}
+
+.footer_header > img {
+  width: 100px;
+  margin-bottom: 8px;
+}
+
+.footer_1 > a {
+  display: flex;
+  color: #363940;
+  margin-right: 100px;
+  margin-bottom: 8px;
+}
+
+.footer_2 > a {
+  display: flex;
+  color: #363940;
+  margin-right: 100px;
+  margin-bottom: 8px;
+}
+.footer_3 > a {
+  display: flex;
+  color: #363940;
+  margin-bottom: 8px;
+}
+
+.footer_profile > a {
+  color: #363940;
+}
+
+.footers {
+  display: flex;
+}
+
+a:hover {
+  background-color: whitesmoke;
+}
